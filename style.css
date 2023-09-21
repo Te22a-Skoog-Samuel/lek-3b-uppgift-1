@@ -5,7 +5,7 @@ body{
     justify-content: center;
 }
 #lol{
-    border: solid red 5px;
+    border: solid red 3px;
     height: 70px;
     display: flex;
     align-items: center;
@@ -15,8 +15,39 @@ body{
 }
 
 h1{
+border: solid black;
+padding-left: 65px;
+padding-right: 65px;
+background-color:aqua;
+text-align: center;
+}
 
+#mitten{
+width: 80%;
+display:flex;
+border:solid orange 3px;
+flex-direction:row;
+align-items:center;
+justify-content: space-between;
+height: 240px;
+}
+
+#högled{
+background-color:pink;
+border: solid black;
+padding: 25px;
+text-align: center;
+width:44.5%;
+}
+
+#vänsled{
+background-color:yellow;
+border:solid black;
+padding:25px;
+text-align: center;
+width:44.5%;
 
 }
 
-/* kdjaklsdja */
+
+
