@@ -10,7 +10,7 @@ body{
     display: flex;
     align-items: center;
     flex-direction: row;
-    width: 80%;
+    width: 99.5%;
     justify-content: space-around;
 }
 
@@ -23,7 +23,7 @@ text-align: center;
 }
 
 #mitten{
-width: 80%;
+width: 99.5%;
 display:flex;
 border:solid orange 3px;
 flex-direction:row;
@@ -34,20 +34,26 @@ height: 240px;
 
 #högled{
 background-color:pink;
-border: solid black;
+border: solid black 3px;
 padding: 25px;
 text-align: center;
-width:44.5%;
+width:45.25%;
 }
 
 #vänsled{
 background-color:yellow;
-border:solid black;
+border:solid black 3px;
 padding:25px;
 text-align: center;
-width:44.5%;
-
+width:45.25%;
 }
 
+.google-Mono{
+font-family:'Spacemono',sans-serif;
+}
+
+#text{
+border:solid yellow 3px;
 
 
+}
